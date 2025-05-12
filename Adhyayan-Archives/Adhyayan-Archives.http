@@ -1,0 +1,6 @@
+@Adhyayan_Archives_HostAddress = http://localhost:5252
+
+GET {{Adhyayan_Archives_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
