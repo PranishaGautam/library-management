@@ -1,0 +1,19 @@
+.filter-bar {
+    display: flex;
+    gap: 20px;
+}
+
+.filter-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-item label {
+    font-size: 14px;
+}
+
+.filter-item select {
+    padding: 5px;
+    font-size: 14px;
+    margin-top: 5px;
+}
